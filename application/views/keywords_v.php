@@ -1,0 +1,13 @@
+model batik <?php echo date('Y')?>,pesan batik,katalog batik,gambar batik,beli batik,batik,hem batik,blus batik,terima pesanan,pesanan batik,batik pekalongan,batik indonesia,motif batik, batik jogja,batik yogyakarta,
+batik solo,desain batik,belanja online,
+batik fabric,batik supplies,batik clothing,batik art,batik fabric sale,indonesian batik,indonesian batik fabric,what is batik,batik artists,
+batik sarong,batik material,batik quilting fabric,batik artist,batik cotton fabric,batik fabrics,fabric batik,batiks,batik tapestries,
+batik quilt fabric,how to batik,history of batik,batik curtains,batik dresses,batik bedding,batik designs,batik painting,batik patterns,
+rayon batik fabric,batiks plus,batik textiles,black batik fabric,batik wax,batik font,batik tools,batik quilt patterns,batiking,batik shirt,
+bali batiks,african batik,batiks fabrics,hoffman batik fabric,batik sheets,hoffman batiks,bali batik fabric,robert kaufman batiks,batik sundresses,
+batik tie dye,bali batiks fabric,batik for kids,
+batik shopping,shopping retail,batik online shopping,
+order batik,batik fabric,batik fabrics,floor cloth,batik designs,
+floor clothes,
+jelly roll hoffman batik,batik fabric,jelly roll hoffman batik fabric,jelly roll batik,jelly roll bali batik fabric,jelly roll bali batik,
+jelly roll timeless treasures batik fabric,jelly roll batik fabric,jelly roll timeless treasures batik

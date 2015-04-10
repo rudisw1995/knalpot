@@ -1,0 +1,1 @@
+<script> $(document).ready(function(){ stoploading(); }) </script><?php	echo '<h2>Konfirmasi</h2>';	echo 'Terimakasih, Pesan Anda Telah Kami Terima. Selanjutnya Kami Akan Memberikan Balasan Atas Pesan		Yang Anda Kirimkan';?>

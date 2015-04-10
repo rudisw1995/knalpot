@@ -1,0 +1,100 @@
+/* --------------------------- Create by ducna@asia-conect.com.vn,YM:duc_act ----------------------------- */
+
+.nav-container{
+	width:960px;font-size:12px;padding:0px;margin:0 auto;background:#fff url(../../images/bg-nav.gif) no-repeat;left:0;height:37px;
+}
+
+ul.menu {list-style:none;width:960px;position:relative;z-index:10;}
+ul.menu a {display:block; color:#000; text-decoration:none;line-height:normal;}
+ul.menu img {display:block; color:#000; text-decoration:none;line-height:37px;}
+ul.menu li {position:relative; float:left; margin-right:0px;z-index:10000;}
+ul.menu ul {position:absolute; top:26px; left:0px; background:#eeeeee; display:none; /*opacity:0;*/ list-style:none;border-right:none !important;}
+ul.menu ul li {position:relative; border:1px solid #dbdbdb; /*border-top:none;*/ width:180px; margin:0;}
+ul.menu ul li a {display:block; padding:3px 7px 6px; background-color:#eeeeee;font-size:12px;font-weight:bold;}
+ul.menu ul li.level1 a {display:block; padding:3px 7px 6px; background-color:#d1d1d1;border-right:none;font-size:12px;font-weight:bold;}
+ul.menu ul li a:hover {background-color:#eeeeee;}
+ul.menu ul ul {left:180px; top:-10px;}
+
+ul.menu li.level0 a{border-right:1px solid #aaa;line-height:37px; font-weight:bold; background:none;padding:0 25px 0 20px;font-size:12px;}
+ul.menu li.level0 a:hover, ul.menu .parent a {background:#fff url(../../images/bg_menu_hover.gif) repeat-x;font-size:12px;font-weight:bold;}
+ul.menu ul li.level0 a{border-right:none;}
+
+ul.menu .sub {background:#eeeeee url(../../images/menu_effect/arrow.gif) 100px 8px no-repeat;}
+ul.menu ul li.parent a{background:#d1d1d1 url(../../images/menu_effect/arrow.gif) 136px 8px no-repeat;font-size:12px;font-weight:bold;}
+ul.menu .last {/*border-bottom:1px solid #aaa;*/}
+ul.menu li.parent {
+	color:#333333;
+	font-size:12px;font-weight:bold;
+	/*background: url(../../images/menu_effect/arrow.gif) no-repeat right center;*/
+}
+ul.menu li.parent li.parent {
+	font-size:12px;font-weight:bold;
+	background:#eeeeee url(../../images/menu_effect/arrow.gif) no-repeat 160px center;
+}
+ul.menu a {
+	font-size:12px;font-weight:bold;
+	/*background: url(../../images/menu_effect/images/arrow4.gif) no-repeat right 16px #000000;*/
+}
+ul.menu li.active a {
+	font-size:12px;font-weight:bold;
+	background:#eeeeee  url(../../images/menu_effect/bg-menu-active.gif) repeat-x 16px ;
+	color: #FFFFFF;
+}
+/************ 1ST LEVEL ************/
+ul.menu ul{margin-top:10px;}
+ul.menu ul li,
+ul.menu ul li.active {margin: 0;padding:0;}
+ul.menu ul li.last {padding-bottom: 0;}
+
+ul.menu ul a,
+ul.menu ul a:hover, ul.menu ul a.over {
+	float: none;
+	background: none;
+	font-size:12px;font-weight:bold;
+	color:#333333 !important;
+}
+ul.menu ul a span,
+ul.menu ul a:hover span, ul.menu ul a.over span {
+	float: none;
+	display: inline;
+	font-size:12px;font-weight:bold;
+	color:#333333 !important;
+}
+ul.menu ul li a, ul.menu ul li a span {
+	font-weight: bold !important;
+	line-height: normal !important;
+	background: none !important;
+	color:#666666!important;
+}
+ul.menu ul li {
+	font-size:12px;font-weight:bold;
+	background: none;
+	text-align:left;
+	border-top:solid 1px #cacaca;
+}
+ul.menu ul li a,  ul.menu li.active li a {
+	border: none;
+	margin: 0;
+	color: #000;
+	background: url(../images/blank.png);
+	font-size: 100%;
+	text-transform: none;
+	font-size:12px;font-weight:bold;
+}
+
+ul.menu ul li a:hover, ul.menu ul li a:active, ul.menu ul li a:focus, ul.menu ul li a.over {
+	background: #fff !important;
+	color: #FFFFFF;
+	font-size:12px;font-weight:bold;
+	color:#333333 !important;
+}
+.clear_both{clear:both;height:0px;overflow:hidden;}
+
+.nav-container .bg-home ul li{float:left; cursor:pointer;}
+.nav-container .bg-home a{padding:11px 30px 7px 30px;border-right:solid 1px #AAAAAA; cursor:pointer;}
+.nav-container .bg-home a{background: url(../../images/bg-home-notactive.gif) no-repeat;}
+
+.nav-container .bg-home a:hover{background: url(../../images/bg-home.gif) no-repeat;}
+ul.menu li.active a.active-bghome{background: url(../../images/bg-home-menu-active.gif) no-repeat ;}
+
+
